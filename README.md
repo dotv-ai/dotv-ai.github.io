@@ -1,6 +1,6 @@
 # DOTV AI
 
-> AI do TV? Just DOTV it.
+> AI do TV? Just DOTV it. — Infinite-canvas AI video creation platform: scripts, storyboards, images, video, voiceover, compositing & team collaboration. dotv.ai
 
 这个仓库是 **DOTV AI** 在 GitHub 上的门面仓库，站点与产品说明见 [dotv.ai](https://dotv.ai)。
 

@@ -29,7 +29,7 @@ DOTV AI ([dotv.ai](https://dotv.ai)) is an AI video creation platform: **scripts
 | | |
 |---|---|
 | X | [@dotv_ai](https://x.com/dotv_ai) |
-| YouTube | [@DOTV-AI](https://www.youtube.com/@dotv_ai) |
+| YouTube | [@dotv_ai](https://www.youtube.com/@dotv_ai) |
 | Crunchbase | [DOTV AI](https://www.crunchbase.com/organization/dotv-ai) |
 | Product Hunt | [@dotv_ai](https://www.producthunt.com/@dotv_ai) |
 | B 站 | [DOTV_AI](https://space.bilibili.com/3747581314206274) |
